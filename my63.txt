@@ -1,0 +1,8 @@
+{
+  "name": "oscar63",
+  "website": "https://github.com/osmankan",
+  "description": "great experience with web 3",
+  "logo": "https://i.hizliresim.com/3sip3cr.png",
+  "twitter": "https://twitter.com/kaosmnn"
+}
+
